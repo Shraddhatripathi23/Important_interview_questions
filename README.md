@@ -352,11 +352,8 @@ The "Important Interview Questions" repository is a collection of commonly asked
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
 
-<div align="center">	
-	<p>	
-		<a href="">	
-      <div>	
-				<img src="https://img.ifunny.co/images/6e632d41fe23ba95ffdc0f33b34f6e86689c3f3c014e74ab0c494c80bc6175cc_1.jpg">	
-			</div>	
+
+<img src="https://img.ifunny.co/images/6e632d41fe23ba95ffdc0f33b34f6e86689c3f3c014e74ab0c494c80bc6175cc_1.jpg">	
+			
 
      
