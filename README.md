@@ -356,9 +356,7 @@ The "Important Interview Questions" repository is a collection of commonly asked
 	<p>	
 		<a href="">	
       <div>	
-				<img src="https://miro.medium.com/v2/resize:fit:601/1*svGeDUey8pRrJlHV1p3eRQ.jpeg">	
-			</div>	
-
-      <div>	
 				<img src="https://img.ifunny.co/images/6e632d41fe23ba95ffdc0f33b34f6e86689c3f3c014e74ab0c494c80bc6175cc_1.jpg">	
 			</div>	
+
+     
