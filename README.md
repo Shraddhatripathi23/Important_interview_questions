@@ -18,14 +18,6 @@ The "Important Interview Questions" repository is a collection of commonly asked
 
 # Awesome Interviews Keep Rock & keep shine always 
 
-> Here you can get important technical interview questions.
-
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
-
-
-
 ## Programming Languages/Frameworks/Platforms
 
 
@@ -361,3 +353,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
 
 
+      <div>	
+				<img src="https://img.ifunny.co/images/6e632d41fe23ba95ffdc0f33b34f6e86689c3f3c014e74ab0c494c80bc6175cc_1.jpg">	
+			</div>	
