@@ -354,19 +354,19 @@ The "Important Interview Questions" repository is a collection of commonly asked
 
 ##Collection of FREE Programming Cheat Sheets
 * [ 1-Python- http://quickref.me/python ]
-2-C- http://quickref.me/c
-3-Git- http://cheatography.com/itsellej/cheat-sheets/git-commands
-4-SQL- http://sqltutorial.org/sql-cheat-sheet
-5- HTML- http://htmlcheatsheet.com
-6- CSS- https://cssreference.io
-7-JavaScript- http://htmlcheatsheet.com/js
-8-React- http://upmostly.com/ultimate-reactjs-cheat-sheet
-9-Angular- http://angular.io/guide/cheatsheet
-10-TailwindCSS- http://nerdcave.com/tailwind-cheat-sheet
-11-Linux- http://cheatography.com/davechild/cheat-sheets/linux-command-line
-12-Docker- http://dockerlabs.collabnix.com/docker/cheatsheet
-13-Go- http://devhints.io/go
-14-C++ - http://hackingcpp.com/cpp/cheat_sheets.html
+* 2-C- http://quickref.me/c
+* 3-Git- http://cheatography.com/itsellej/cheat-sheets/git-commands
+*  4-SQL- http://sqltutorial.org/sql-cheat-sheet
+*  5- HTML- http://htmlcheatsheet.com
+*  6- CSS- https://cssreference.io
+*  7-JavaScript- http://htmlcheatsheet.com/js
+*  8-React- http://upmostly.com/ultimate-reactjs-cheat-sheet
+*  9-Angular- http://angular.io/guide/cheatsheet
+*  10-TailwindCSS- http://nerdcave.com/tailwind-cheat-sheet
+*  11-Linux- http://cheatography.com/davechild/cheat-sheets/linux-command-line
+*  12-Docker- http://dockerlabs.collabnix.com/docker/cheatsheet
+*  13-Go- http://devhints.io/go
+*  14-C++ - http://hackingcpp.com/cpp/cheat_sheets.html
 
 <img src="https://github.com/Shraddhatripathi23/Important_interview_questions/blob/main/Screenshot%202023-09-14%20at%2010.24.29%20PM.png">	
 			
